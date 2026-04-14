@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace AStar_vs_Best_First_Analysis {
     public class Grid

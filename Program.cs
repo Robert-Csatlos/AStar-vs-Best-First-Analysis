@@ -6,9 +6,6 @@ using System.Windows.Forms;
 
 namespace AStar_vs_Best_First_Analysis {
     static class Program {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main() {
             Application.EnableVisualStyles();
